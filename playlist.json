@@ -1,0 +1,650 @@
+{
+    "hero": [
+        {
+            "id": "gehraiyaan",
+            "title": "Gehraiyaan",
+            "poster": "https://qqcdnpictest.mxplay.com/pic/a547ffd993b9c4f77a442a9ef16b854e/en/16x9/640x360/1e24ee15e07e6b68ff411e4a2e235628_1920x1080.jpg",
+            "stream_url": "https://d3sgzbosmwirao.cloudfront.net/video/c407de36293af7f911d9410ced72aa68e39cef422ecaa2ba7755403b350f971e/2/hls/h264_high.m3u8",
+            "headers": {
+                "Referer": ""
+            }
+        }
+    ],
+    "categories": [
+        {
+            "name": "MAX PLAYER",
+            "items": [
+                {
+                    "id": "gehraiyaan",
+                    "title": "Gehraiyaan",
+                    "poster": "https://qqcdnpictest.mxplay.com/pic/a547ffd993b9c4f77a442a9ef16b854e/en/16x9/640x360/1e24ee15e07e6b68ff411e4a2e235628_1920x1080.jpg",
+                    "stream_url": "https://d3sgzbosmwirao.cloudfront.net/video/c407de36293af7f911d9410ced72aa68e39cef422ecaa2ba7755403b350f971e/2/hls/h264_high.m3u8",
+                    "headers": {
+                        "Referer": ""
+                    }
+                },
+                {
+                    "id": "chalo_jeete_hain",
+                    "title": "Chalo Jeete Hain",
+                    "poster": "https://qqcdnpictest.mxplay.com/pic/4312b0d3bf84defb8a8027a86b6a022f/en/16x9/640x360/test_pic1757940789943.jpg",
+                    "stream_url": "https://d3sgzbosmwirao.cloudfront.net/video/f6d498f72b54dbcd7edd9187ad32c48ed8484aff782ff3ee9bccf99bee6e42ff/3/hls/h264_high.m3u8",
+                    "headers": {
+                        "Referer": ""
+                    }
+                },
+                {
+                    "id": "a_slice_of_romance",
+                    "title": "A Slice Of Romance",
+                    "poster": "https://qqcdnpictest.mxplay.com/pic/7eab79d5edb992632b142828dbafcd08/en/16x9/640x360/test_pic1749472413771.jpg",
+                    "stream_url": "https://d3sgzbosmwirao.cloudfront.net/video/d700360b1c49c1bc286de89ec262b56e3eafca9b2ab5c18afbdc4fc47c37bab1/3/hls/h264_high.m3u8",
+                    "headers": {
+                        "Referer": ""
+                    }
+                },
+                {
+                    "id": "scented_with_love",
+                    "title": "Scented With Love",
+                    "poster": "https://qqcdnpictest.mxplay.com/pic/0eae0bbb6d82320ec3a3a876db71ebbe/en/16x9/640x360/test_pic1745864451172.jpg",
+                    "stream_url": "https://d3sgzbosmwirao.cloudfront.net/video/10a4a09368d4a8b1faea0ff9f0eb38946925b44339527f861e54aeb212080cd9/3/hls/h264_high.m3u8",
+                    "headers": {
+                        "Referer": ""
+                    }
+                },
+                {
+                    "id": "the_date_whisperer",
+                    "title": "The Date Whisperer",
+                    "poster": "https://qqcdnpictest.mxplay.com/pic/a3e30187c4c4a4bcb775e7aaa8f062b9/en/16x9/640x360/test_pic1734444595880.jpg",
+                    "stream_url": "https://d3sgzbosmwirao.cloudfront.net/video/cf40f5de3058d2fb522a72854a33480a2dfc428b34c5bbb2fa69af25a1806e43/5/hls/h264_high.m3u8",
+                    "headers": {
+                        "Referer": ""
+                    }
+                },
+                {
+                    "id": "stepping_into_love",
+                    "title": "Stepping Into Love",
+                    "poster": "https://qqcdnpictest.mxplay.com/pic/d1a53d880f1c359deb0635eff9cd99d3/en/16x9/640x360/test_pic1747051691018.jpg",
+                    "stream_url": "https://d3sgzbosmwirao.cloudfront.net/video/78d7a9f9b6cb6c429c673c1bf792e3030d0754703b8cc9dc891906712ec42170/3/hls/h264_high.m3u8",
+                    "headers": {
+                        "Referer": ""
+                    }
+                },
+                {
+                    "id": "dragon_wars__d_war",
+                    "title": "Dragon Wars: D-War",
+                    "poster": "https://qqcdnpictest.mxplay.com/pic/281132c5448b213960af0677046803ee/en/16x9/640x360/test_pic1631851577153.jpg",
+                    "stream_url": "https://d3sgzbosmwirao.cloudfront.net/video/e44355d4f27c17770dc88810407ccb13/1/hls/h264_high.m3u8",
+                    "headers": {
+                        "Referer": ""
+                    }
+                },
+                {
+                    "id": "the_journey_to_her_smile",
+                    "title": "The Journey To Her Smile",
+                    "poster": "https://qqcdnpictest.mxplay.com/pic/0ebd79b87db58cd8b7eb6c8749b43815/en/16x9/640x360/test_pic1644406283149.jpg",
+                    "stream_url": "https://d3sgzbosmwirao.cloudfront.net/video/12ae36733fb83f691333a0232cac8eb4/1/hls/h264_high.m3u8",
+                    "headers": {
+                        "Referer": ""
+                    }
+                },
+                {
+                    "id": "revolt",
+                    "title": "Revolt",
+                    "poster": "https://qqcdnpictest.mxplay.com/pic/80722c41396ac19fdfa73a451a44e645/en/16x9/640x360/test_pic1712051871167.jpg",
+                    "stream_url": "https://d3sgzbosmwirao.cloudfront.net/video/40311d87bac23ab1ebca86bbaa2695d28528870b94f2bc572f23d592473b0b7a/3/hls/h264_high.m3u8",
+                    "headers": {
+                        "Referer": ""
+                    }
+                },
+                {
+                    "id": "ghost_town",
+                    "title": "Ghost Town",
+                    "poster": "https://qqcdnpictest.mxplay.com/pic/49b35366c475928fc95829af1d5d6514/en/16x9/640x360/test_pic1638165396126.jpg",
+                    "stream_url": "https://d3sgzbosmwirao.cloudfront.net/video/2adef0c8359a1bc4fc4fc9b4fa1abeae/1/hls/h264_high.m3u8",
+                    "headers": {
+                        "Referer": ""
+                    }
+                },
+                {
+                    "id": "luckless_in_love",
+                    "title": "Luckless In Love",
+                    "poster": "https://qqcdnpictest.mxplay.com/pic/6bf21d9f0b2c598e6137cb0b01b598a1/en/16x9/640x360/test_pic1739453086633.jpg",
+                    "stream_url": "https://d3sgzbosmwirao.cloudfront.net/video/eff9f0d6d066ca130c45a24ee268b55a6e3df34c9976a18d3deeae6d593b6654/7/hls/h264_high.m3u8",
+                    "headers": {
+                        "Referer": ""
+                    }
+                },
+                {
+                    "id": "the_free_fall",
+                    "title": "The Free Fall",
+                    "poster": "https://qqcdnpictest.mxplay.com/pic/0da034fbedb93842e17b63ea3303d6bf/en/16x9/640x360/test_pic1727787283527.jpg",
+                    "stream_url": "https://d3sgzbosmwirao.cloudfront.net/video/c69f5c0e38bf9591a49805ff6849aa67a5d0ef95b950983239062b7e114efadd/1/hls/h264_high.m3u8",
+                    "headers": {
+                        "Referer": ""
+                    }
+                },
+                {
+                    "id": "the_marry_me_pact",
+                    "title": "The Marry Me Pact",
+                    "poster": "https://qqcdnpictest.mxplay.com/pic/d26d02fdbd19abd022022fda133476fd/en/16x9/640x360/test_pic1733320782177.jpg",
+                    "stream_url": "https://d3sgzbosmwirao.cloudfront.net/video/22c7f372d91dbdb9940dede10824fbed42a5a4f714c21ce2e398f6861138898c/6/hls/h264_high.m3u8",
+                    "headers": {
+                        "Referer": ""
+                    }
+                },
+                {
+                    "id": "ultra_warrior",
+                    "title": "Ultra Warrior",
+                    "poster": "https://qqcdnpictest.mxplay.com/pic/b7d65cdd00ca8473edb395104a09e49d/en/16x9/640x360/test_pic1640526639495.jpg",
+                    "stream_url": "https://d3sgzbosmwirao.cloudfront.net/video/ec123b8cde98de58388eac676fee924d/2/hls/h264_high.m3u8",
+                    "headers": {
+                        "Referer": ""
+                    }
+                },
+                {
+                    "id": "10_truths_about_love",
+                    "title": "10 Truths About Love",
+                    "poster": "https://qqcdnpictest.mxplay.com/pic/b0bf23f1704b095b542ef9ce0304e71b/en/16x9/640x360/test_pic1744605671600.jpg",
+                    "stream_url": "https://d3sgzbosmwirao.cloudfront.net/video/cc7c76d362ee55d69d84c062d9073ce8c4a810bf766e5f68e2167d602e499fb8/2/hls/h264_high.m3u8",
+                    "headers": {
+                        "Referer": ""
+                    }
+                },
+                {
+                    "id": "the_love_gala",
+                    "title": "The Love Gala",
+                    "poster": "https://qqcdnpictest.mxplay.com/pic/a3531d050cfa1a7f42688b51d2478d0e/en/16x9/640x360/test_pic1739453206402.jpg",
+                    "stream_url": "https://d3sgzbosmwirao.cloudfront.net/video/a56af28781ba0f2a50535c55fdb8130c959bedbeca17e86e5fbdfa2a0b41326a/4/hls/h264_high.m3u8",
+                    "headers": {
+                        "Referer": ""
+                    }
+                },
+                {
+                    "id": "lucky_hearts",
+                    "title": "Lucky Hearts",
+                    "poster": "https://qqcdnpictest.mxplay.com/pic/1e87c635bab0a269fec198b48eeb8e5f/en/16x9/640x360/test_pic1733320922582.jpg",
+                    "stream_url": "https://d3sgzbosmwirao.cloudfront.net/video/2a989d5ee358f457b9ab38bf94b53a91461fa9207e4fc531621898da7e37e477/4/hls/h264_high.m3u8",
+                    "headers": {
+                        "Referer": ""
+                    }
+                },
+                {
+                    "id": "dagon",
+                    "title": "Dagon",
+                    "poster": "https://qqcdnpictest.mxplay.com/pic/1134795934ab339aa449a5272667e5ee/en/16x9/640x360/test_pic1638517380476.jpg",
+                    "stream_url": "https://d3sgzbosmwirao.cloudfront.net/video/0d55795deae33c7f1a0488d622729045/1/hls/h264_high.m3u8",
+                    "headers": {
+                        "Referer": ""
+                    }
+                },
+                {
+                    "id": "tidal_wave",
+                    "title": "Tidal Wave",
+                    "poster": "https://qqcdnpictest.mxplay.com/pic/49ce44566000f014aa0e7350a0a54f30/en/16x9/640x360/test_pic1631192037946.jpg",
+                    "stream_url": "https://d3sgzbosmwirao.cloudfront.net/video/1658df7a70654bcc86d39c4b5f0cfa63/hls/h264_high.m3u8",
+                    "headers": {
+                        "Referer": ""
+                    }
+                },
+                {
+                    "id": "planning_on_forever",
+                    "title": "Planning On Forever",
+                    "poster": "https://qqcdnpictest.mxplay.com/pic/205411166c18d18c637c9f72c89e6b81/en/16x9/640x360/test_pic1745820622995.jpg",
+                    "stream_url": "https://d3sgzbosmwirao.cloudfront.net/video/2bb0ef47cc42fd22ca4cfb9c1f40d696e8e4711e9fcaf26cb5c587b743b47454/3/hls/h264_high.m3u8",
+                    "headers": {
+                        "Referer": ""
+                    }
+                },
+                {
+                    "id": "the_love_advisor",
+                    "title": "The Love Advisor",
+                    "poster": "https://qqcdnpictest.mxplay.com/pic/30da3cad55d193b87705ecc8c0b57a11/en/16x9/640x360/test_pic1739453260380.jpg",
+                    "stream_url": "https://d3sgzbosmwirao.cloudfront.net/video/877194e1e02b580c38dee81caaada404d6cc27a006350362ef89c0b76285f931/4/hls/h264_high.m3u8",
+                    "headers": {
+                        "Referer": ""
+                    }
+                },
+                {
+                    "id": "love_on_trend",
+                    "title": "Love On Trend",
+                    "poster": "https://qqcdnpictest.mxplay.com/pic/117eb9d3319c03132c56990485d86ff9/en/16x9/640x360/test_pic1744047818427.jpg",
+                    "stream_url": "https://d3sgzbosmwirao.cloudfront.net/video/44b38a0ec27fe5ed5a184a9dcaa6243b3aea0330d15809bbd7d8eaa982ac1d22/2/hls/h264_high.m3u8",
+                    "headers": {
+                        "Referer": ""
+                    }
+                },
+                {
+                    "id": "a_bestselling_kind_of_love",
+                    "title": "A Bestselling Kind Of Love",
+                    "poster": "https://qqcdnpictest.mxplay.com/pic/5b3c29b7fd1300a64771ce7ed1706e12/en/16x9/640x360/test_pic1733319987652.jpg",
+                    "stream_url": "https://d3sgzbosmwirao.cloudfront.net/video/f9d29bd78f5caa7ff4a2ae5d5e126a4c605d0610a33dfd8a05554b9417036302/5/hls/h264_high.m3u8",
+                    "headers": {
+                        "Referer": ""
+                    }
+                },
+                {
+                    "id": "the_pa_and_the_manhattan_prince",
+                    "title": "The PA And The Manhattan Prince",
+                    "poster": "https://qqcdnpictest.mxplay.com/pic/58d59896bfdae1046200e1b77d2d2ca5/en/16x9/640x360/test_pic1733320720265.jpg",
+                    "stream_url": "https://d3sgzbosmwirao.cloudfront.net/video/a4cdde5d78a0953f46c63dc8e23f3b5d86891ee9d40648c46f2670602d7255a0/6/hls/h264_high.m3u8",
+                    "headers": {
+                        "Referer": ""
+                    }
+                },
+                {
+                    "id": "a_conflict_of_love_interest",
+                    "title": "A Conflict Of Love Interest",
+                    "poster": "https://qqcdnpictest.mxplay.com/pic/e984889e4552bc591d65719c03d541c1/en/16x9/640x360/test_pic1733320643193.jpg",
+                    "stream_url": "https://d3sgzbosmwirao.cloudfront.net/video/112511e9152b25e0b74d2036ca0da55a1d8cf20464415cd09a81d25baa3645e2/5/hls/h264_high.m3u8",
+                    "headers": {
+                        "Referer": ""
+                    }
+                },
+                {
+                    "id": "listen_out_for_love",
+                    "title": "Listen Out For Love",
+                    "poster": "https://qqcdnpictest.mxplay.com/pic/b141ead3818046bf08c63e8489e1c2a8/en/16x9/640x360/test_pic1748868730700.jpg",
+                    "stream_url": "https://d3sgzbosmwirao.cloudfront.net/video/b780538379ddc1724584b86d15ed11263b400ddc2dadfa9541c9445344f9a389/5/hls/h264_high.m3u8",
+                    "headers": {
+                        "Referer": ""
+                    }
+                },
+                {
+                    "id": "love_birds__english_",
+                    "title": "Love Birds (English)",
+                    "poster": "https://qqcdnpictest.mxplay.com/pic/b0598dd3679f175bbca2562da2aead60/en/16x9/640x360/test_pic1564741683852.jpg",
+                    "stream_url": "https://d3sgzbosmwirao.cloudfront.net/video/5d29994ac18529a7ca9340902680ec38/hls/h264_high.m3u8",
+                    "headers": {
+                        "Referer": ""
+                    }
+                },
+                {
+                    "id": "screwballs",
+                    "title": "Screwballs",
+                    "poster": "https://qqcdnpictest.mxplay.com/pic/153a0ec04c709cd96c7e23a853a2d19d/en/16x9/640x360/test_pic1638190483852.jpg",
+                    "stream_url": "https://d3sgzbosmwirao.cloudfront.net/video/baf4c23485a38a189e4558a980c6c03b/1/hls/h264_high.m3u8",
+                    "headers": {
+                        "Referer": ""
+                    }
+                },
+                {
+                    "id": "darkness",
+                    "title": "Darkness",
+                    "poster": "https://qqcdnpictest.mxplay.com/pic/cd5aef74a070cd2ca38091f4c2967efe/en/16x9/640x360/ca3fa695560923f0f96fb28f234c5f80_1920x1080.jpg",
+                    "stream_url": "https://d3sgzbosmwirao.cloudfront.net/video/f6519a8ff4ff6cd3a490293ec944d93f/1/hls/h264_high.m3u8",
+                    "headers": {
+                        "Referer": ""
+                    }
+                },
+                {
+                    "id": "follow_me",
+                    "title": "Follow Me",
+                    "poster": "https://qqcdnpictest.mxplay.com/pic/e1e6e83c8298315831a2a51b229e1941/en/16x9/640x360/test_pic1708349748588.jpg",
+                    "stream_url": "https://d3sgzbosmwirao.cloudfront.net/video/2fcf12550b20861c81fd2b6de2d747033f70ecbfdab56f6a1a02bad1e91882bf/1/hls/h264_high.m3u8",
+                    "headers": {
+                        "Referer": ""
+                    }
+                },
+                {
+                    "id": "the_way_of_war",
+                    "title": "The Way of War",
+                    "poster": "https://qqcdnpictest.mxplay.com/pic/11f8a5d327346aeb9af992dc663a92de/en/16x9/640x360/test_pic1575378667217.jpg",
+                    "stream_url": "https://d3sgzbosmwirao.cloudfront.net/video/25a4c7ad7e26fa13f604647bd085c40e/1/hls/h264_high.m3u8",
+                    "headers": {
+                        "Referer": ""
+                    }
+                },
+                {
+                    "id": "repeat",
+                    "title": "Repeat",
+                    "poster": "https://qqcdnpictest.mxplay.com/pic/f504ffd5ed6340a64d4a07faf1695a5e/en/16x9/640x360/test_pic1747637689884.jpg",
+                    "stream_url": "https://d3sgzbosmwirao.cloudfront.net/video/33809b486817c3f13465526d149cfbc8f4b76d61a2084e3cb63b5a07f364514f/3/hls/h264_high.m3u8",
+                    "headers": {
+                        "Referer": ""
+                    }
+                },
+                {
+                    "id": "watchers",
+                    "title": "Watchers",
+                    "poster": "https://qqcdnpictest.mxplay.com/pic/3df78cadf6f27f8bc01e6d32a9056943/en/16x9/640x360/test_pic1640527442681.jpg",
+                    "stream_url": "https://d3sgzbosmwirao.cloudfront.net/video/ec9ea2daac09fe63da1ee09b242f66ba/2/hls/h264_high.m3u8",
+                    "headers": {
+                        "Referer": ""
+                    }
+                },
+                {
+                    "id": "legendary_amazons__english_dubbed_",
+                    "title": "Legendary Amazons (English Dubbed)",
+                    "poster": "https://qqcdnpictest.mxplay.com/pic/62650712cfdd99448d81abf7f8206b3d/en/16x9/640x360/test_pic1575378318721.jpg",
+                    "stream_url": "https://d3sgzbosmwirao.cloudfront.net/video/7cea93a5d128db7ce83703c361dea021/1/hls/h264_high.m3u8",
+                    "headers": {
+                        "Referer": ""
+                    }
+                },
+                {
+                    "id": "gorgeous",
+                    "title": "Gorgeous",
+                    "poster": "https://qqcdnpictest.mxplay.com/pic/6d06f23ce97d844c3496718d529cae3c/en/16x9/640x360/test_pic1631190699368.jpg",
+                    "stream_url": "https://d3sgzbosmwirao.cloudfront.net/video/9064c055b093fdf653e72974542b4ac5/1/hls/h264_high.m3u8",
+                    "headers": {
+                        "Referer": ""
+                    }
+                },
+                {
+                    "id": "roar__1981_",
+                    "title": "Roar (1981)",
+                    "poster": "https://qqcdnpictest.mxplay.com/pic/1d20c5822d948e10bcee53f7afa9475c/en/16x9/640x360/test_pic1575372487246.jpg",
+                    "stream_url": "https://d3sgzbosmwirao.cloudfront.net/video/6d18536e0cc07eef2d925e6d5bac8a8b/hls/h264_high.m3u8",
+                    "headers": {
+                        "Referer": ""
+                    }
+                },
+                {
+                    "id": "the_proposal_spot",
+                    "title": "The Proposal Spot",
+                    "poster": "https://qqcdnpictest.mxplay.com/pic/23bc46d04bcd8761f5bed9a0077b0de5/en/16x9/640x360/test_pic1733892566854.jpg",
+                    "stream_url": "https://d3sgzbosmwirao.cloudfront.net/video/2ce966936e250250ccbec62426494ffb20d8b4308aa3207bd6c5b7f93f341b2d/5/hls/h264_high.m3u8",
+                    "headers": {
+                        "Referer": ""
+                    }
+                },
+                {
+                    "id": "how_to_win_a_prince",
+                    "title": "How To Win A Prince",
+                    "poster": "https://qqcdnpictest.mxplay.com/pic/37de4975c6a6102a3e01e37b42734773/en/16x9/640x360/test_pic1733896006323.jpg",
+                    "stream_url": "https://d3sgzbosmwirao.cloudfront.net/video/6a68c71a7e37bf187e68c889d0c7958ab9857c9d9cd609d810651b48b1d9eb97/6/hls/h264_high.m3u8",
+                    "headers": {
+                        "Referer": ""
+                    }
+                },
+                {
+                    "id": "for_the_love_of_chocolate",
+                    "title": "For The Love Of Chocolate",
+                    "poster": "https://qqcdnpictest.mxplay.com/pic/1a6f4b7b08f5b5350b15e3f758f00640/en/16x9/640x360/test_pic1745230872212.jpg",
+                    "stream_url": "https://d3sgzbosmwirao.cloudfront.net/video/7140837cd3ee130409cc4f704c9c89dd9fec7df80df76a7912bd1d7dcf6d8999/3/hls/h264_high.m3u8",
+                    "headers": {
+                        "Referer": ""
+                    }
+                },
+                {
+                    "id": "abandoned",
+                    "title": "Abandoned",
+                    "poster": "https://qqcdnpictest.mxplay.com/pic/7329fc50dd708af4d0d08412dfb90210/en/16x9/640x360/47b15542ef64cc92702f52f0de44e952_1920x1080.jpg",
+                    "stream_url": "https://d3sgzbosmwirao.cloudfront.net/video/006b9661417c5a75363c6105402ce298/hls/h264_high.m3u8",
+                    "headers": {
+                        "Referer": ""
+                    }
+                },
+                {
+                    "id": "the_prophecy__1995_",
+                    "title": "The Prophecy (1995)",
+                    "poster": "https://qqcdnpictest.mxplay.com/pic/f0eaac226cda05f686729a09afa501a3/en/16x9/640x360/d5e63bb03fd910d4e85886662e124286_1920x1080.jpg",
+                    "stream_url": "https://d3sgzbosmwirao.cloudfront.net/video/8acbe0e2fdee72646af18196803e4efc/1/hls/h264_high.m3u8",
+                    "headers": {
+                        "Referer": ""
+                    }
+                },
+                {
+                    "id": "police_story_lockdown",
+                    "title": "Police Story Lockdown",
+                    "poster": "https://qqcdnpictest.mxplay.com/pic/b517e3d4ec271fe9efede8e35ad356b6/en/16x9/640x360/0022a5bb078398cc3c0b7426003df097_1920x1080.jpg",
+                    "stream_url": "https://d3sgzbosmwirao.cloudfront.net/video/bb3bf25738b547b301c14b069b9939f5/hls/h264_high.m3u8",
+                    "headers": {
+                        "Referer": ""
+                    }
+                },
+                {
+                    "id": "dead_space",
+                    "title": "Dead Space",
+                    "poster": "https://qqcdnpictest.mxplay.com/pic/48f7a450616c7412756d88cee0fdcb21/en/16x9/640x360/test_pic1637830788411.jpg",
+                    "stream_url": "https://d3sgzbosmwirao.cloudfront.net/video/b3e8b379d5251606e3d4c64e0ddeb382/hls/h264_high.m3u8",
+                    "headers": {
+                        "Referer": ""
+                    }
+                },
+                {
+                    "id": "tornado",
+                    "title": "Tornado",
+                    "poster": "https://qqcdnpictest.mxplay.com/pic/4164464ec0e5b1ac4ac84eb92a63a9f4/en/16x9/640x360/test_pic1637557147663.jpg",
+                    "stream_url": "https://d3sgzbosmwirao.cloudfront.net/video/8cf073c5edb0632e1d516ba693e0fde9/1/hls/h264_high.m3u8",
+                    "headers": {
+                        "Referer": ""
+                    }
+                },
+                {
+                    "id": "two_chefs_and_a_wedding_cake",
+                    "title": "Two Chefs And A Wedding Cake",
+                    "poster": "https://qqcdnpictest.mxplay.com/pic/0de56bd48ffc823e5122afa599ff1967/en/16x9/640x360/test_pic1734444539367.jpg",
+                    "stream_url": "https://d3sgzbosmwirao.cloudfront.net/video/2344c4242e17ad4e9d0bce49611ace2b704b5b6ac3825eb8f6e6473a1b2b0fa4/4/hls/h264_high.m3u8",
+                    "headers": {
+                        "Referer": ""
+                    }
+                },
+                {
+                    "id": "alone_in_the_woods",
+                    "title": "Alone In The Woods",
+                    "poster": "https://qqcdnpictest.mxplay.com/pic/6235f5192dcb39e1a14ef6a2f5a5d600/en/16x9/640x360/test_pic1633336548040.jpg",
+                    "stream_url": "https://d3sgzbosmwirao.cloudfront.net/video/41d7e93f9a87c421a204856ff32dab31/1/hls/h264_high.m3u8",
+                    "headers": {
+                        "Referer": ""
+                    }
+                },
+                {
+                    "id": "battle_beyond_the_stars",
+                    "title": "Battle Beyond the Stars",
+                    "poster": "https://qqcdnpictest.mxplay.com/pic/921a594a923c13344258627947fd146f/en/16x9/640x360/test_pic1602759504847.jpg",
+                    "stream_url": "https://d3sgzbosmwirao.cloudfront.net/video/a7705dddc6af0d21ccfd3f29444079bd/1/hls/h264_high.m3u8",
+                    "headers": {
+                        "Referer": ""
+                    }
+                },
+                {
+                    "id": "bad_company",
+                    "title": "Bad Company",
+                    "poster": "https://qqcdnpictest.mxplay.com/pic/08f1f769154f67907f7bf0f54d5d5f7d/en/16x9/640x360/329f0d3dd903080af6e8d9318c513e15_1920x1080.jpg",
+                    "stream_url": "https://d3sgzbosmwirao.cloudfront.net/video/b6e573f9a4cf160cd01b0932862b75c2/1/hls/h264_high.m3u8",
+                    "headers": {
+                        "Referer": ""
+                    }
+                },
+                {
+                    "id": "transylvania_twist",
+                    "title": "Transylvania Twist",
+                    "poster": "https://qqcdnpictest.mxplay.com/pic/6b93f6f6544ad99fbb937884997622f9/en/16x9/640x360/test_pic1631193177027.jpg",
+                    "stream_url": "https://d3sgzbosmwirao.cloudfront.net/video/fe683fbc870c2504a5a9fb19942cadfe/1/hls/h264_high.m3u8",
+                    "headers": {
+                        "Referer": ""
+                    }
+                },
+                {
+                    "id": "hot_fuzz",
+                    "title": "Hot Fuzz",
+                    "poster": "https://qqcdnpictest.mxplay.com/pic/bdd83af01a14bc41a67c8e7099990c5d/en/16x9/640x360/test_pic1564741558962.jpg",
+                    "stream_url": "https://d3sgzbosmwirao.cloudfront.net/video/6733fffa76e4d5dbaf4ac20db96e0c5e/1/hls/h264_high.m3u8",
+                    "headers": {
+                        "Referer": ""
+                    }
+                },
+                {
+                    "id": "north_west_frontier",
+                    "title": "North West Frontier",
+                    "poster": "https://qqcdnpictest.mxplay.com/pic/5ab90a349ff83f3c8f5c84b3cf7d41cf/en/16x9/640x360/test_pic1575377703597.jpg",
+                    "stream_url": "https://d3sgzbosmwirao.cloudfront.net/video/59ce0a31ec83a81598ebc331627b0fa7/hls/h264_high.m3u8",
+                    "headers": {
+                        "Referer": ""
+                    }
+                },
+                {
+                    "id": "cockfighter",
+                    "title": "Cockfighter",
+                    "poster": "https://qqcdnpictest.mxplay.com/pic/22f2b3b1b4b3ff3d21bca4593be86c92/en/16x9/640x360/test_pic1637830101347.jpg",
+                    "stream_url": "https://d3sgzbosmwirao.cloudfront.net/video/690430f8060fabbd47a32ad7ee5af688/2/hls/h264_high.m3u8",
+                    "headers": {
+                        "Referer": ""
+                    }
+                },
+                {
+                    "id": "me_and_mr__right",
+                    "title": "Me And Mr. Right",
+                    "poster": "https://qqcdnpictest.mxplay.com/pic/f380d34952159e711baceef054fe620e/en/16x9/640x360/test_pic1739453160568.jpg",
+                    "stream_url": "https://d3sgzbosmwirao.cloudfront.net/video/08d4925217548b691f767ad45d4808546302918ba29385d73f11ec11eb85a83a/5/hls/h264_high.m3u8",
+                    "headers": {
+                        "Referer": ""
+                    }
+                },
+                {
+                    "id": "the_wedding_fix",
+                    "title": "The Wedding Fix",
+                    "poster": "https://qqcdnpictest.mxplay.com/pic/af4fcf07688451675fa6f72f0018437b/en/16x9/640x360/test_pic1748241130561.jpg",
+                    "stream_url": "https://d3sgzbosmwirao.cloudfront.net/video/d19c1f1a64cb0e2cc16b03bf572687a96715a3b21821e3361343ab4e2b8a502c/3/hls/h264_high.m3u8",
+                    "headers": {
+                        "Referer": ""
+                    }
+                },
+                {
+                    "id": "bloodmoon",
+                    "title": "Bloodmoon",
+                    "poster": "https://qqcdnpictest.mxplay.com/pic/5a9a91402a2ee5d96a0c2048089c241b/en/16x9/640x360/test_pic1728289107933.jpg",
+                    "stream_url": "https://d3sgzbosmwirao.cloudfront.net/video/fad3b769ab5202d5189a49bde53169ab/1/hls/h264_high.m3u8",
+                    "headers": {
+                        "Referer": ""
+                    }
+                },
+                {
+                    "id": "love_at_the_bootcamp",
+                    "title": "Love At The Bootcamp",
+                    "poster": "https://qqcdnpictest.mxplay.com/pic/7013c3db36ac48029642952b42ecf8f9/en/16x9/640x360/test_pic1733320982264.jpg",
+                    "stream_url": "https://d3sgzbosmwirao.cloudfront.net/video/9e550d5f818d088cd6f542b66ed311767f7fc72d4aa64e8a5270c0b58baa3e3f/5/hls/h264_high.m3u8",
+                    "headers": {
+                        "Referer": ""
+                    }
+                },
+                {
+                    "id": "the_bees",
+                    "title": "The Bees",
+                    "poster": "https://qqcdnpictest.mxplay.com/pic/bc13b0167ffd11ec8b0de33d08163b32/en/16x9/640x360/test_pic1638190408821.jpg",
+                    "stream_url": "https://d3sgzbosmwirao.cloudfront.net/video/c818a9ad99e9b48247f9eadcc5c1ceba/1/hls/h264_high.m3u8",
+                    "headers": {
+                        "Referer": ""
+                    }
+                },
+                {
+                    "id": "love_s_playlist",
+                    "title": "Love's Playlist",
+                    "poster": "https://qqcdnpictest.mxplay.com/pic/a25aac4827c8522e0d657853cbd79969/en/16x9/640x360/test_pic1739453307186.jpg",
+                    "stream_url": "https://d3sgzbosmwirao.cloudfront.net/video/8274cb0dd386db3c887e956437de6f7ac9ef24e22f8a4ac4e9fd1f1d17597f03/7/hls/h264_high.m3u8",
+                    "headers": {
+                        "Referer": ""
+                    }
+                },
+                {
+                    "id": "southern_comfort",
+                    "title": "Southern Comfort",
+                    "poster": "https://qqcdnpictest.mxplay.com/pic/88496da8ebfda1006dcddd49be178e98/en/16x9/640x360/test_pic1729073921591.jpg",
+                    "stream_url": "https://d3sgzbosmwirao.cloudfront.net/video/fd43df13d945b8ee12b2f6b10eb82e3d/1/hls/h264_high.m3u8",
+                    "headers": {
+                        "Referer": ""
+                    }
+                },
+                {
+                    "id": "martial_law_2__undercover",
+                    "title": "Martial Law 2: Undercover",
+                    "poster": "https://qqcdnpictest.mxplay.com/pic/e23375c571e31f52f952ef07b4d0be37/en/16x9/640x360/test_pic1637644808769.jpg",
+                    "stream_url": "https://d3sgzbosmwirao.cloudfront.net/video/255d01407214cd0f3f04c3ab49394a92/1/hls/h264_high.m3u8",
+                    "headers": {
+                        "Referer": ""
+                    }
+                },
+                {
+                    "id": "martial_law",
+                    "title": "Martial Law",
+                    "poster": "https://qqcdnpictest.mxplay.com/pic/8ff2366866e5ee635692b66d4389d1f1/en/16x9/640x360/test_pic1633334353157.jpg",
+                    "stream_url": "https://d3sgzbosmwirao.cloudfront.net/video/081c5ac9a60d437904f0f0268508fd4d/1/hls/h264_high.m3u8",
+                    "headers": {
+                        "Referer": ""
+                    }
+                },
+                {
+                    "id": "avalanche",
+                    "title": "Avalanche",
+                    "poster": "https://qqcdnpictest.mxplay.com/pic/a98998ff02ceab9e83492b042079a4ac/en/16x9/640x360/57d15d8046c942a1051743392b4da69b_1920x1080.jpg",
+                    "stream_url": "https://d3sgzbosmwirao.cloudfront.net/video/6bda2639a98ead025ef99114e0c86775/1/hls/h264_high.m3u8",
+                    "headers": {
+                        "Referer": ""
+                    }
+                },
+                {
+                    "id": "death_hunt",
+                    "title": "Death Hunt",
+                    "poster": "https://qqcdnpictest.mxplay.com/pic/ad293ccc323e22b7a16c83776c493afb/en/16x9/640x360/test_pic1639985785046.jpg",
+                    "stream_url": "https://d3sgzbosmwirao.cloudfront.net/video/12acac243680d37d15c988ce3ff9fe73/1/hls/h264_high.m3u8",
+                    "headers": {
+                        "Referer": ""
+                    }
+                },
+                {
+                    "id": "a_date_with_miss_fortune",
+                    "title": "A Date with Miss Fortune",
+                    "poster": "https://qqcdnpictest.mxplay.com/pic/b7d5697cbd87cc6f9d98926d6ec5781f/en/16x9/640x360/test_pic1564741258784.jpg",
+                    "stream_url": "https://d3sgzbosmwirao.cloudfront.net/video/85f0bf1efc0ee3f483bc78f03c1ce43f/hls/h264_high.m3u8",
+                    "headers": {
+                        "Referer": ""
+                    }
+                },
+                {
+                    "id": "my_kung_fu_12_kicks",
+                    "title": "My Kung Fu 12 Kicks",
+                    "poster": "https://qqcdnpictest.mxplay.com/pic/2b4734863b08f31662e96a0547b5e41c/en/16x9/640x360/test_pic1638453046786.jpg",
+                    "stream_url": "https://d3sgzbosmwirao.cloudfront.net/video/66adc31285b469149909529da1d7e811/hls/h264_high.m3u8",
+                    "headers": {
+                        "Referer": ""
+                    }
+                },
+                {
+                    "id": "mindwalk",
+                    "title": "Mindwalk",
+                    "poster": "https://qqcdnpictest.mxplay.com/pic/02547915f2907572a0ea1397ce339210/en/16x9/640x360/test_pic1638354452378.jpg",
+                    "stream_url": "https://d3sgzbosmwirao.cloudfront.net/video/29973a0d0ff00addb1c42d6f3c18473b/1/hls/h264_high.m3u8",
+                    "headers": {
+                        "Referer": ""
+                    }
+                },
+                {
+                    "id": "meet_the_hollowheads",
+                    "title": "Meet The Hollowheads",
+                    "poster": "https://qqcdnpictest.mxplay.com/pic/d1ee756b4cb3b1e06a8085646bd94bb0/en/16x9/640x360/test_pic1638354211110.jpg",
+                    "stream_url": "https://d3sgzbosmwirao.cloudfront.net/video/24fe565d8c16f4cfe9615395d72f5466/1/hls/h264_high.m3u8",
+                    "headers": {
+                        "Referer": ""
+                    }
+                },
+                {
+                    "id": "eagles_attack_at_dawn",
+                    "title": "Eagles Attack At Dawn",
+                    "poster": "https://qqcdnpictest.mxplay.com/pic/e38f6cef1e55ec3615b32959ab102f03/en/16x9/640x360/test_pic1638517469560.jpg",
+                    "stream_url": "https://d3sgzbosmwirao.cloudfront.net/video/82dfd3f83e827b2bee829fc6034481a8/1/hls/h264_high.m3u8",
+                    "headers": {
+                        "Referer": ""
+                    }
+                },
+                {
+                    "id": "dead_heat",
+                    "title": "Dead Heat",
+                    "poster": "https://qqcdnpictest.mxplay.com/pic/c6809e5507a5dd771109f4ae805003b2/en/16x9/640x360/test_pic1602759770903.jpg",
+                    "stream_url": "https://d3sgzbosmwirao.cloudfront.net/video/9d38126c9dfb3b8593d80a1d70ca19cc/1/hls/h264_high.m3u8",
+                    "headers": {
+                        "Referer": ""
+                    }
+                },
+                {
+                    "id": "chino",
+                    "title": "Chino",
+                    "poster": "https://qqcdnpictest.mxplay.com/pic/f4e3a9e559ab83c0891175f3ecbeb453/en/16x9/640x360/a9f742e0a151f182943e778706952ca9_1920x1080.jpg",
+                    "stream_url": "https://d3sgzbosmwirao.cloudfront.net/video/c15d3de683ea52708ce742a9f8759614/1/hls/h264_high.m3u8",
+                    "headers": {
+                        "Referer": ""
+                    }
+                }
+            ]
+        }
+    ]
+}
